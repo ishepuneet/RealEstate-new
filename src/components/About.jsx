@@ -420,7 +420,6 @@ export default function About() {
 
       </section>
 
-
     </main>
   );
 }
