@@ -40,7 +40,7 @@ export default function About() {
 
       {/* ================= HEADER ================= */}
 
-      <header className="border-b border-white/10 bg-[#050c1a]">
+      {/* <header className="border-b border-white/10 bg-[#050c1a]">
         <div className="mx-auto flex max-w-[1420px] items-center justify-between px-5 py-5 sm:px-8 lg:px-12">
 
           <a
@@ -103,7 +103,7 @@ export default function About() {
           </button>
 
         </div>
-      </header>
+      </header> */}
 
       {/* ================= HERO ================= */}
 
@@ -419,16 +419,6 @@ export default function About() {
         </div>
 
       </section>
-
-      {/* ================= FOOTER ================= */}
-
-      <footer className="border-t border-white/10">
-
-        <div className="mx-auto max-w-[1420px] px-5 py-8 text-center text-[10px] tracking-wider text-white/25 sm:px-8 lg:px-12">
-          © {new Date().getFullYear()} HAVEN REALTY — EXCEPTIONAL HOMES. EXTRAORDINARY LIFESTYLES.
-        </div>
-
-      </footer>
 
     </main>
   );

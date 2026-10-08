@@ -31,7 +31,7 @@ export default function Header() {
             HAVEN
 
             <small className="block pl-0.5 font-sans text-[6px] font-medium tracking-[.5em] text-[#d6b273] sm:pl-1 sm:text-[7px] sm:tracking-[.58em]">
-              {/* REALTY */}
+              REALTY
             </small>
           </span>
         </Link>
